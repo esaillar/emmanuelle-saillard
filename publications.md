@@ -6,11 +6,19 @@ permalink: /publications/
 
 # Publications
 
+### 2022
+
+
+<b> [<a href="http://www.ipdps.org" target="_blank">IPDPS 2022</a>] </b>
+<p markdown="1">
+Ali Tehrani, Mihail Popov, Akash Dutta, Emmanuelle Saillard, et Ali Jannesari, "Learning Intermediate Representations using Graph Neural Networks for NUMA and Prefetchers Optimization.", IPDPS 2022. TO APPEAR
+</p>
+
 ### 2021
 
 <b> [<a href="https://www.eurompi21.lrz.de" target="_blank">EuroMPI 2021</a>] </b>
 <p markdown="1">
-Tassadit Aitkaci, Marc Sergent, Emmanuelle Saillard, Denis Barthou and Guillaume Papaure, "Dynamic Data Race Detection for MPI-RMA Programs", 2021. TO APPEAR
+Tassadit Aitkaci, Marc Sergent, Emmanuelle Saillard, Denis Barthou and Guillaume Papaure, "Dynamic Data Race Detection for MPI-RMA Programs", EuroMPI 2021. 
 </p>
 
 

@@ -21,4 +21,4 @@ permalink: /mediation/
 
 This activity aims at introducing High performance computing to middle- and high-school students while doing maths.
 
-Download the <a href="{{site.baseurl}}/resources/Cartes.pdf" target="_blank">Cards </a> document and the document <a href="{{site.baseurl}}/resources/MurailleEgypt.pdf" target="_blank">for animator</a> (all in french)  
+Download the <a href="{{site.baseurl}}/resources/Cartes.pdf" target="_blank">Cards </a> document and the document <a href="{{site.baseurl}}/resources/MurailleEgypte.pdf" target="_blank">for animator</a> (all in french)  

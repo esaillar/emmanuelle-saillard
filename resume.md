@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" target="_blank">here</a> (last updated in 2019)
+You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" target="_blank">here</a> in english (last updated in 2019) or in <a href="{{site.baseurl}}/resources/cv_french.pdf" target="_blank">french</a> (last updated in 2022) 
 
 
 
@@ -20,7 +20,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 	- [2019-2022] Van Man NGUYEN, co-supervision with Denis Barthou (Bordeaux INP), Patrick Carribault (CEA), and Julien Jaeger (CEA)
 - **Internship**
 	- Pierre-Antoine Rouby (Undergrad at University of Bordeaux)
-	- Charly Castes, co-supervision with Olivier Aumage and Emmanuel Agullo (Undergrad at École Polytechnique)
+	- Radjasouria VINAYAGAME (Undergrad at Enseirb-Matmeca)
 
 **Former students**
 
@@ -28,6 +28,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
   - [April 2019 - August 2020] Pierre HUCHANT, co-supervision with  <a href="https://crd.lbl.gov/departments/computer-science/class/members/class-staff/costin-iancu/" target="_blank">Costin Iancu</a> (LBNL) 
 <br/> DPEI Inria@SiliconValley funding
 - **Internship**
+	- Charly Castes, co-supervision with Olivier Aumage and Emmanuel Agullo (Undergrad at École Polytechnique)
 	- Mathieu Laurent, co-supervision with <a href="https://people.irisa.fr/Martin.Quinson/" target="_blank"> Martin Quinson</a> (Undergrad at ENS Rennes)
 <br/> *Evaluation d'outils de recherche de bugs de synchronisation en MPI*
 	- Vincent BRIDONNEAU (Undergrad at Enseirb-Matmec)
@@ -65,7 +66,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - 2022, ICPP: Local Arrangment Chair
+ - 2022, ICPP: Local Arrangment Chair, SBACPAD, C3PO: Associate chair
  - 2021, <a href="http://compilfr.ens-lyon.fr/quatorzieme-rencontre-compilation/" target="_blank"> French compilation days</a>: General Chair, <a href="https://c3po-workshop.github.io/2021/index" target="_blank"> C3PO</a>: Workshop General chair, <a href="https://2021.compas-conference.fr/" target="_blank"> Compas</a>: Track Chair
  - 2020, <a href="https://c3po-workshop.github.io/index" target="_blank"> C3PO</a>:  Workshop Associate Chair
  </td>
@@ -106,6 +107,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
+ - In charge of the scientific mediation for the Inria Bordeaux Sud-Ouest Research Center
  - Treasurer of AGOS (Association de Gestion des Œuvres Sociales) at Inria Bordeaux research center and member of AGOS national
  - Member of the Commission de délégation (delegation, postdoc, cordi-s)
  </td>

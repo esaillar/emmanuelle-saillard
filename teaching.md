@@ -7,6 +7,19 @@ permalink: /teaching/
 
 # Teaching 
 
+<h5>Spring 2022</h5>
+<td markdown="1">
+* Introduction to research 
+	* University of Bordeaux, 3rd year
+
+<h5>Fall 2021</h5>
+<td markdown="1">
+* Tree Structures (Teacher)
+	* Enseirb-Matmeca, 1st year
+* Algorithm (Teacher)
+	* Enseirb-Matmeca, 1st year
+* Languages of parallelism (Teacher)
+	* Enseirb-Matmeca, 3rd year
 
 <h5>Spring 2021</h5>
 <td markdown="1">

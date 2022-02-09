@@ -88,6 +88,6 @@ PARallel COntrol flow Anomaly CHecker (PARCOACH) aims at helping developers in t
     <h3 class="panel-title">Open Internship Positions (contact me if you are interested)</h3>
   </div>
   <div class="panel-body">
-	- <a href="https://team.inria.fr/storm/stage-m1-ou-m2-identifying-the-benefit-of-communication-aggregation-in-hpc-applications/" target="_blank"> Identifying the Benefit of Communication Aggregation in HPC Applications</a>
+	- None 
   </div>
 </div>
