@@ -20,7 +20,6 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 	- [2019-2022] Van Man NGUYEN, co-supervision with Denis Barthou (Bordeaux INP), Patrick Carribault (CEA), and Julien Jaeger (CEA)
 - **Internship**
 	- Pierre-Antoine Rouby (Undergrad at University of Bordeaux)
-	- Radjasouria VINAYAGAME (Undergrad at Enseirb-Matmeca)
 
 **Former students**
 
@@ -28,6 +27,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
   - [April 2019 - August 2020] Pierre HUCHANT, co-supervision with  <a href="https://crd.lbl.gov/departments/computer-science/class/members/class-staff/costin-iancu/" target="_blank">Costin Iancu</a> (LBNL) 
 <br/> DPEI Inria@SiliconValley funding
 - **Internship**
+	- Radjasouria VINAYAGAME (Undergrad at Enseirb-Matmeca)
 	- Charly Castes, co-supervision with Olivier Aumage and Emmanuel Agullo (Undergrad at École Polytechnique)
 	- Mathieu Laurent, co-supervision with <a href="https://people.irisa.fr/Martin.Quinson/" target="_blank"> Martin Quinson</a> (Undergrad at ENS Rennes)
 <br/> *Evaluation d'outils de recherche de bugs de synchronisation en MPI*
@@ -49,16 +49,22 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 <br/> *Evaluation d'une méthode d'analyse dynamique pour la validation des applications en environnement massivement parallèle*
 
 
-**PhD Jury**
-- [Jan 2021] James Trotter, University of Oslo (reviewer)
-- [Dec 2020] Tao Chang, Institut Polytechnique de Paris (member) 
-- [June 2020] Jérémy Lagravière, University of Oslo (reviewer)
-
-
 </td>
   </div>
 </div>
 
+<div class="panel panel-info" markdown="1">
+   <div class="panel-heading">
+     <h3 class="panel-title">PhD Jury</h3>
+   </div>
+   <div class="panel-body">
+ <td markdown="1">
+- [Jan 2021] James Trotter, University of Oslo (reviewer)
+- [Dec 2020] Tao Chang, Institut Polytechnique de Paris (member) 
+- [June 2020] Jérémy Lagravière, University of Oslo (reviewer)
+ </td>
+   </div>
+ </div>
 
 <div class="panel panel-info" markdown="1">
    <div class="panel-heading">
@@ -66,7 +72,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - 2022, ICPP: Local Arrangment Chair, SBACPAD, C3PO: Associate chair
+ - 2022, <a href="https://icpp22.gitlabpages.inria.fr" target="_blank"> ICPP</a>: Local Arrangment Chair, <a href="https://project.inria.fr/sbac2022/" target="_blank">SBACPAD</a>, C3PO: Associate chair
  - 2021, <a href="http://compilfr.ens-lyon.fr/quatorzieme-rencontre-compilation/" target="_blank"> French compilation days</a>: General Chair, <a href="https://c3po-workshop.github.io/2021/index" target="_blank"> C3PO</a>: Workshop General chair, <a href="https://2021.compas-conference.fr/" target="_blank"> Compas</a>: Track Chair
  - 2020, <a href="https://c3po-workshop.github.io/index" target="_blank"> C3PO</a>:  Workshop Associate Chair
  </td>
@@ -81,6 +87,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
+ - 2022, <a href="https://correctness-workshop.github.io/2022/" target="_blank"> Correctness</a>, ICCS 
  - 2021, <a href="https://2021.euro-par.org" target="_blank"> EuroPar</a> (Performance and power modeling, prediction and evaluation)
  - 2020, <a href="https://correctness-workshop.github.io/2020/" target="_blank"> Correctness</a>, <a href="https://sc20.supercomputing.org" target="_blank"> SC</a> (Performance)
  - 2019, <a href="https://correctness-workshop.github.io/2019/" target="_blank"> Correctness</a>, <a href="https://www.ppam.pl" target="_blank"> PPAM</a>, <a href="http://hpcs2019.cisedu.info/2-conference/symposia/symp05-4pad" target="_blank"> 4PAD </a>, <a href="https://2019.compas-conference.fr" target="_blank"> Compas </a>, <a href="https://omasew.github.io" target="_blank"> OMASE </a>
@@ -95,6 +102,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
+ - 1 minute avec.. (<a href="https://pixees.fr/une-minute-avec-emmanuelle-saillard/" target="_blank">Pixees article</a>)
  - MIMM (<a href="https://math-interactions.u-bordeaux.fr/Espace-projets/Moi-Informaticienne-Moi-Mathematicienne" target="_blank">Moi Informaticienne - Moi Mathématicienne)</a>), University of Bordeaux, workshop for girls in high school 
 - Chiche! 1 scientifique, 1 classe <a href="https://www.francebleu.fr/infos/societe/gironde-des-chercheurs-dans-les-lycees-pour-casser-les-cliches-sur-les-metiers-scientifiques-1601646438" target="_blank">[intervention (fr)]</a>
  </td>
@@ -107,9 +115,9 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - In charge of the scientific mediation for the Inria Bordeaux Sud-Ouest Research Center
- - Treasurer of AGOS (Association de Gestion des Œuvres Sociales) at Inria Bordeaux research center and member of AGOS national
- - Member of the Commission de délégation (delegation, postdoc, cordi-s)
+ - In charge of the scientific mediation for the Inria Bordeaux Sud-Ouest Research Center (since 2021)
+ - Treasurer of AGOS (Association de Gestion des Œuvres Sociales) at Inria Bordeaux research center and member of AGOS national (since 2018)
+ - Member of the Commission de délégation (delegation, postdoc, cordi-s) (since 2019)
  </td>
    </div>
  </div>

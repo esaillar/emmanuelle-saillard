@@ -14,6 +14,12 @@ permalink: /publications/
 Ali Tehrani, Mihail Popov, Akash Dutta, Emmanuelle Saillard, et Ali Jannesari, "Learning Intermediate Representations using Graph Neural Networks for NUMA and Prefetchers Optimization.", IPDPS 2022. TO APPEAR
 </p>
 
+
+<b> [<a href="https://hips2022.github.io" target="_blank">HIPS 2022</a>] </b>
+<p markdown="1">
+Charly Castes, Emmanuel Agullo, Olivier Aumage, and Emmanuelle Saillard, "Decentralized in-order execution of a sequential task-based code for shared-memory architectures", HIPS 2022. TO APPEAR
+</p>
+
 ### 2021
 
 <b> [<a href="https://www.eurompi21.lrz.de" target="_blank">EuroMPI 2021</a>] </b>
