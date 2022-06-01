@@ -27,6 +27,11 @@ Charly Castes, Emmanuel Agullo, Olivier Aumage, and Emmanuelle Saillard, "Decent
 Tassadit Aitkaci, Marc Sergent, Emmanuelle Saillard, Denis Barthou and Guillaume Papaure, "Dynamic Data Race Detection for MPI-RMA Programs", EuroMPI 2021. 
 </p>
 
+<b> [<a href="https://correctness-workshop.github.io/2021/" target="_blank">Correctness 2021</a>] </b>
+<b> [<a href="https://hal.inria.fr/hal-03474762/document" target="_blank">pdf </a>] </b>
+<p markdown="1">
+Mathieu Laurent, Emmanuelle Saillard, Martin Quinson, "The MPI BUGS INITIATIVE: a Framework for MPI Verification Tools Evaluation", Correctness 2021.
+</p>
 
 ### 2020
 
