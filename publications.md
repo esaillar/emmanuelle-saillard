@@ -20,6 +20,11 @@ Ali Tehrani, Mihail Popov, Akash Dutta, Emmanuelle Saillard, et Ali Jannesari, "
 Charly Castes, Emmanuel Agullo, Olivier Aumage, and Emmanuelle Saillard, "Decentralized in-order execution of a sequential task-based code for shared-memory architectures", HIPS 2022. TO APPEAR
 </p>
 
+<b> [<a href="https://www.sciencedirect.com/science/article/pii/S0167819121001022" target="_blank">Parallel Computing 2022</a>] </b>
+<p markdown="1">
+Protze, Joachim; Hermanns, Marc-André; Müller, Matthias S.; Nguyen, Van Man; Jaeger, Julien; Saillard, Emmanuelle; Carribault, Patrick; Barthou, Denis, "MPI detach — Towards automatic asynchronous local completion", Parallel Computing, Volume 109, 2022
+</p>
+
 ### 2021
 
 <b> [<a href="https://www.eurompi21.lrz.de" target="_blank">EuroMPI 2021</a>] </b>

@@ -6,6 +6,24 @@ permalink: /mediation/
 
 # Mediation
 
+
+ <div class="panel panel-info" markdown="1">
+   <div class="panel-heading">
+     <h3 class="panel-title">Outreach</h3>
+   </div>
+   <div class="panel-body">
+ <td markdown="1">
+ - Désassemblons le numérique -  (<a href="https://www.inria.fr/fr/desassemblons-le-numerique-episode2?pk_campaign=hebdo_bso_fr-hebdo_24/06/2022&pk_source=146535&pk_medium=newsletter&pk_content=https://www.inria.fr/fr/desassemblons-le-numerique-episode2" target="_blank">#Episode 2</a>)
+ - 1 minute avec.. (<a href="https://pixees.fr/une-minute-avec-emmanuelle-saillard/" target="_blank">Pixees article</a>), (<a href="https://www.canal-u.tv/chaines/inria/une-minute-avec" target="_blank">canal-u</a>)
+ - MIMM (<a href="https://math-interactions.u-bordeaux.fr/Espace-projets/Moi-Informaticienne-Moi-Mathematicienne" target="_blank">Moi Informaticienne - Moi Mathématicienne)</a>), University of Bordeaux, workshop for girls in high school 
+- Chiche! 1 scientifique, 1 classe <a href="https://www.francebleu.fr/infos/societe/gironde-des-chercheurs-dans-les-lycees-pour-casser-les-cliches-sur-les-metiers-scientifiques-1601646438" target="_blank">[intervention (fr)]</a>
+ </td>
+   </div>
+ </div>
+
+
+
+
 ### Unplugged activities 
  
 <h5>In french</h5>

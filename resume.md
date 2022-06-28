@@ -96,18 +96,6 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
  </div>
  
- <div class="panel panel-info" markdown="1">
-   <div class="panel-heading">
-     <h3 class="panel-title">Outreach</h3>
-   </div>
-   <div class="panel-body">
- <td markdown="1">
- - 1 minute avec.. (<a href="https://pixees.fr/une-minute-avec-emmanuelle-saillard/" target="_blank">Pixees article</a>)
- - MIMM (<a href="https://math-interactions.u-bordeaux.fr/Espace-projets/Moi-Informaticienne-Moi-Mathematicienne" target="_blank">Moi Informaticienne - Moi Mathématicienne)</a>), University of Bordeaux, workshop for girls in high school 
-- Chiche! 1 scientifique, 1 classe <a href="https://www.francebleu.fr/infos/societe/gironde-des-chercheurs-dans-les-lycees-pour-casser-les-cliches-sur-les-metiers-scientifiques-1601646438" target="_blank">[intervention (fr)]</a>
- </td>
-   </div>
- </div>
 
  <div class="panel panel-info" markdown="1">
    <div class="panel-heading">
