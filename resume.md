@@ -103,7 +103,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - 2022: Inria recruitment Jury
+ - Inria recruitment Jury (2022)
  - In charge of the scientific mediation for the Inria Bordeaux Sud-Ouest Research Center (since 2021)
  - Treasurer of AGOS (Association de Gestion des Œuvres Sociales) at Inria Bordeaux research center and member of AGOS national (since 2018)
  - Member of the Commission de délégation (delegation, postdoc, cordi-s) (since 2019)
@@ -122,6 +122,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
  - Tutor for the MPI hands on sessions of the <a href="https://ecoles-cea-edf-inria.fr/en/schools/ecole-informatique-2022/" target="_blank"> 2022 summer school on informatics  </a> 
  </td>
    </div>
+ </div>
 
 
 
@@ -135,9 +136,9 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
  - Coordinator and active member of the <a href="http://compilfr.ens-lyon.fr" target="_blank"> French Compilation group </a> (now CLAP) 
  </td>
    </div>
-
-
  </div>
+
+
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
 
