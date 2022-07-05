@@ -72,7 +72,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - 2022, <a href="https://icpp22.gitlabpages.inria.fr" target="_blank"> ICPP</a>: Local Arrangment Chair, <a href="https://project.inria.fr/sbac2022/" target="_blank">SBACPAD</a>, C3PO: Associate chair
+ - 2022, <a href="https://icpp22.gitlabpages.inria.fr" target="_blank"> ICPP</a>: Local Arrangment Chair, <a href="https://project.inria.fr/sbac2022/" target="_blank">SBACPAD</a>, <a href="https://c3po-workshop.github.io/2022/index" target="_blank">C3PO</a>: Associate chair
  - 2021, <a href="http://compilfr.ens-lyon.fr/quatorzieme-rencontre-compilation/" target="_blank"> French compilation days</a>: General Chair, <a href="https://c3po-workshop.github.io/2021/index" target="_blank"> C3PO</a>: Workshop General chair, <a href="https://2021.compas-conference.fr/" target="_blank"> Compas</a>: Track Chair
  - 2020, <a href="https://c3po-workshop.github.io/index" target="_blank"> C3PO</a>:  Workshop Associate Chair
  </td>
@@ -87,11 +87,11 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - 2022, <a href="https://correctness-workshop.github.io/2022/" target="_blank"> Correctness</a>, ICCS 
- - 2021, <a href="https://2021.euro-par.org" target="_blank"> EuroPar</a> (Performance and power modeling, prediction and evaluation)
- - 2020, <a href="https://correctness-workshop.github.io/2020/" target="_blank"> Correctness</a>, <a href="https://sc20.supercomputing.org" target="_blank"> SC</a> (Performance)
- - 2019, <a href="https://correctness-workshop.github.io/2019/" target="_blank"> Correctness</a>, <a href="https://www.ppam.pl" target="_blank"> PPAM</a>, <a href="http://hpcs2019.cisedu.info/2-conference/symposia/symp05-4pad" target="_blank"> 4PAD </a>, <a href="https://2019.compas-conference.fr" target="_blank"> Compas </a>, <a href="https://omasew.github.io" target="_blank"> OMASE </a>
- - 2018, <a href="https://sc18.supercomputing.org" target="_blank"> SC</a> (Workshop), <a href="http://2018.compas-conference.fr/#" target="_blank"> Compas </a>, <a href="https://www.isc-hpc.com" target="_blank"> ISC</a> (Poster)
+ - 2022: <a href="https://correctness-workshop.github.io/2022/" target="_blank"> Correctness</a>, ICCS 
+ - 2021: <a href="https://2021.euro-par.org" target="_blank"> EuroPar</a> (Performance and power modeling, prediction and evaluation)
+ - 2020: <a href="https://correctness-workshop.github.io/2020/" target="_blank"> Correctness</a>, <a href="https://sc20.supercomputing.org" target="_blank"> SC</a> (Performance)
+ - 2019: <a href="https://correctness-workshop.github.io/2019/" target="_blank"> Correctness</a>, <a href="https://www.ppam.pl" target="_blank"> PPAM</a>, <a href="http://hpcs2019.cisedu.info/2-conference/symposia/symp05-4pad" target="_blank"> 4PAD </a>, <a href="https://2019.compas-conference.fr" target="_blank"> Compas </a>, <a href="https://omasew.github.io" target="_blank"> OMASE </a>
+ - 2018: <a href="https://sc18.supercomputing.org" target="_blank"> SC</a> (Workshop), <a href="http://2018.compas-conference.fr/#" target="_blank"> Compas </a>, <a href="https://www.isc-hpc.com" target="_blank"> ISC</a> (Poster)
  </td>
    </div>
  </div>
@@ -103,12 +103,28 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
+ - 2022: Inria recruitment Jury
  - In charge of the scientific mediation for the Inria Bordeaux Sud-Ouest Research Center (since 2021)
  - Treasurer of AGOS (Association de Gestion des Œuvres Sociales) at Inria Bordeaux research center and member of AGOS national (since 2018)
  - Member of the Commission de délégation (delegation, postdoc, cordi-s) (since 2019)
  </td>
    </div>
  </div>
+
+
+
+ <div class="panel panel-info" markdown="1">
+   <div class="panel-heading">
+     <h3 class="panel-title">Tutorials / Summer schools</h3>
+   </div>
+   <div class="panel-body">
+ <td markdown="1">
+ - Tutor for the MPI hands on sessions of the <a href="https://ecoles-cea-edf-inria.fr/en/schools/ecole-informatique-2022/" target="_blank"> 2022 summer school on informatics  </a> 
+ </td>
+   </div>
+
+
+
 
  <div class="panel panel-info" markdown="1">
    <div class="panel-heading">

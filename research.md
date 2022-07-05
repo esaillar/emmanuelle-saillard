@@ -71,6 +71,8 @@ PARallel COntrol flow Anomaly CHecker (PARCOACH) aims at helping developers in t
   <div id="collapse2" class="panel-collapse collapse">
   <div class="panel-body">
 <td markdown="1">
+- MTV seminar (University of Bordeaux) - 2022
+- LLVM pour les nuls, CLAP seminar - 2022
 - <a href="http://gpl2018.imag.fr/index.html" target="_blank">Journées nationales du GDR GPL, Grenoble June 12-15, 2018</a>
    Vérification des applications MPI par une anayse statique/dynamique  -  Verification of MPI applications using a static/dynamic analysis (Talk in french)
 - <a href="http://tesson.julien.free.fr/LaMHA/2018/" target="_blank">Journée LaHMA, Paris December 13, 2018</a>
