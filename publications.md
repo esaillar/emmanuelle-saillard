@@ -13,14 +13,16 @@ permalink: /publications/
 C9. Chiheb Sakka, Amina Guermouche, Olivier Aumage, Emmanuelle Saillard, Mark Potse, Yves Coudière, Denis Barthou.  " A comparison of multithreading, vectorization, and GPU computing for the acceleration of cardiac electrophysiology models"
 
 <b> [<a href="http://www.ipdps.org" target="_blank">IPDPS 2022</a>] </b>
+<b> [<a href="https://hal.archives-ouvertes.fr/hal-03603118/" target="_blank">pdf </a>] </b>
 <p markdown="1">
-C8. Ali Tehrani, Mihail Popov, Akash Dutta, Emmanuelle Saillard, et Ali Jannesari, "Learning Intermediate Representations using Graph Neural Networks for NUMA and Prefetchers Optimization.", IPDPS 2022. TO APPEAR
+C8. Ali Tehrani, Mihail Popov, Akash Dutta, Emmanuelle Saillard, et Ali Jannesari, "Learning Intermediate Representations using Graph Neural Networks for NUMA and Prefetchers Optimization.", in 2022 IEEE International Parallel and Distributed Processing Symposium (IPDPS), Lyon, France, 2022 pp. 1206-1216. 
 </p>
 
 
 <b> [<a href="https://hips2022.github.io" target="_blank">HIPS 2022</a>] </b>
+<b> [<a href="https://hal.inria.fr/hal-03547334" target="_blank">pdf </a>] </b>
 <p markdown="1">
-W7. Charly Castes, Emmanuel Agullo, Olivier Aumage, and Emmanuelle Saillard, "Decentralized in-order execution of a sequential task-based code for shared-memory architectures", HIPS 2022. TO APPEAR
+W7. Charly Castes, Emmanuel Agullo, Olivier Aumage, and Emmanuelle Saillard, "Decentralized in-order execution of a sequential task-based code for shared-memory architectures", HIPS 2022. 
 </p>
 
 <b> [<a href="https://www.sciencedirect.com/science/article/pii/S0167819121001022" target="_blank">Parallel Computing 2022</a>] </b>
