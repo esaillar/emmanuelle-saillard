@@ -119,7 +119,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - Tutor for the MPI hands on sessions of the <a href="https://ecoles-cea-edf-inria.fr/en/schools/ecole-informatique-2022/" target="_blank"> 2022 summer school on informatics  </a> 
+ - Teacher assistant for the MPI hands on sessions of the <a href="https://ecoles-cea-edf-inria.fr/en/schools/ecole-informatique-2022/" target="_blank"> 2022 summer school on informatics  </a> 
  </td>
    </div>
  </div>

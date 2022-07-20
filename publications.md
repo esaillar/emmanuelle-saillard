@@ -8,6 +8,9 @@ permalink: /publications/
 
 ### 2022
 
+<b> [<a href="https://events.tuni.fi/cinc2022/" target="_blank">CinC 2022</a>] </b>
+<p markdown="1">
+C9. Chiheb Sakka, Amina Guermouche, Olivier Aumage, Emmanuelle Saillard, Mark Potse, Yves Coudière, Denis Barthou.  " A comparison of multithreading, vectorization, and GPU computing for the acceleration of cardiac electrophysiology models"
 
 <b> [<a href="http://www.ipdps.org" target="_blank">IPDPS 2022</a>] </b>
 <p markdown="1">
