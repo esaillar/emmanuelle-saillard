@@ -8,6 +8,11 @@ permalink: /publications/
 
 ### 2022
 
+<b> [<a href="https://correctness-workshop.github.io/2022/" target="_blank">Correctness 2022</a>] </b>
+<p markdown="1">
+W8. Emmanuelle Saillard, Marc Sergent, Celia Tassadit Ait Kaci, Denis Barthou, "Static Local Concurrency Errors Detection in MPI-RMA Programs", Correctness 2022. TO APPEAR
+</p>
+
 <b> [<a href="https://events.tuni.fi/cinc2022/" target="_blank">CinC 2022</a>] </b>
 <p markdown="1">
 C9. Chiheb Sakka, Amina Guermouche, Olivier Aumage, Emmanuelle Saillard, Mark Potse, Yves Coudière, Denis Barthou.  " A comparison of multithreading, vectorization, and GPU computing for the acceleration of cardiac electrophysiology models"
