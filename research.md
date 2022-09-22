@@ -31,6 +31,7 @@ PARCOACH is implemented as a **LLVM pass** and is still under development.
 - <p> Exacard, ANR 2018 (Participant) </p> 
 - <p> <a href="https://team.inria.fr/cohpc/" target="_blank">COHPC</a> : COrrectness and performance of HPC applications (French PI), Inria associate team (2019 - 2021), 10k€/year </p> 
 - <p> <a href="http://www.microcard.eu/index-en.html" target="_blank">Microcard</a>, H2020 (Participant) </p> 
+- <p> Plan de relance Inria-Atos </p> 
 </td>
   </div>
 </div>

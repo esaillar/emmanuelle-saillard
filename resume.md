@@ -18,8 +18,6 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 - **PhD**
 	- [2019-2022] Célia Tassadit AITKACI, co-supervision with <a href="https://www.labri.fr/perso/barthou/" target="_blank">Denis Barthou</a> (Bordeaux INP) and Marc Sergent (ATOS)
 	- [2019-2022] Van Man NGUYEN, co-supervision with Denis Barthou (Bordeaux INP), Patrick Carribault (CEA), and Julien Jaeger (CEA)
-- **Internship**
-	- Pierre-Antoine Rouby (Undergrad at University of Bordeaux)
 
 **Former students**
 
@@ -27,26 +25,27 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
   - [April 2019 - August 2020] Pierre HUCHANT, co-supervision with  <a href="https://crd.lbl.gov/departments/computer-science/class/members/class-staff/costin-iancu/" target="_blank">Costin Iancu</a> (LBNL) 
 <br/> DPEI Inria@SiliconValley funding
 - **Internship**
+	- Pierre-Antoine Rouby (Undergrad at University of Bordeaux)
 	- Radjasouria VINAYAGAME (Undergrad at Enseirb-Matmeca)
 	- Charly Castes, co-supervision with Olivier Aumage and Emmanuel Agullo (Undergrad at École Polytechnique)
 	- Mathieu Laurent, co-supervision with <a href="https://people.irisa.fr/Martin.Quinson/" target="_blank"> Martin Quinson</a> (Undergrad at ENS Rennes)
-<br/> *Evaluation d'outils de recherche de bugs de synchronisation en MPI*
+<!--- <br/> *Evaluation d'outils de recherche de bugs de synchronisation en MPI* --->
 	- Vincent BRIDONNEAU (Undergrad at Enseirb-Matmec)
-<br/> *Static Selective Instrumentation for Parallel Programs Verification*
+<!--- <br/> <br/> *Static Selective Instrumentation for Parallel Programs Verification* --->
 	- Radjasouria VINAYAGAME (Undergrad at Enseirb-Matmeca, 2 months in 2019-2020)
-<br/> *Intégration continue et amélioration de la sortie de PARCOACH*
+<!--- <br/> <br/> *Intégration continue et amélioration de la sortie de PARCOACH* --->
 	- Louise MERCIER (High school student, 2 weeks in 2019)
 <br/> Stage de découverte 
 	- Firmin MARTIN (Undergrad at ENS Lyon, 6 weeks internship in 2019)
-<br/> *Analyse statique pour aider la détection d’états équivalents dans SimGrid*
+<!--- <br/> <br/> *Analyse statique pour aider la détection d’états équivalents dans SimGrid* --->
 	- Antoine TIREL (Undergrad at Enseirb-Matmeca, 3 months internship in 2018)
-<br/> *Utilisation de la compilation pour aider la vérification formelle*
+<!--- <br/> <br/> *Utilisation de la compilation pour aider la vérification formelle* --->
 	- Ahmed Amine NASSIK (Undergrad at Polytech Grenoble, 3 months internship in 2017), co-supervision with Jean-François Méhaut (University of Grenoble, France)
-<br/> *Optimisation d'un noyau de calcul à l'aide de BOAST*
+<!--- <br/> <br/> *Optimisation d'un noyau de calcul à l'aide de BOAST* --->
 	- Hugo BRUNIE (Undergrad at Enseirb-Matmeca, 6 months internship in 2015), co-supervision with Patrick Carribault (CEA, France) and Denis Barthou (Bordeaux INP)
-<br/> *Validation des applications parallèles multi-modèles sur supercalculateur - Extension de PARCOACH*
+<!--- <br/> <br/> *Validation des applications parallèles multi-modèles sur supercalculateur - Extension de PARCOACH* --->
 	- Arthur LOUSSERT (Undergrad at University of Versailles, 2 months internship in 2014), co-supervision with Patrick Carribault (CEA, France)
-<br/> *Evaluation d'une méthode d'analyse dynamique pour la validation des applications en environnement massivement parallèle*
+<!--- <br/> <br/> *Evaluation d'une méthode d'analyse dynamique pour la validation des applications en environnement massivement parallèle* --->
 
 
 </td>
@@ -73,7 +72,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    <div class="panel-body">
  <td markdown="1">
  - 2022, <a href="https://icpp22.gitlabpages.inria.fr" target="_blank"> ICPP</a>: Local Arrangment Chair, <a href="https://project.inria.fr/sbac2022/" target="_blank">SBACPAD</a>, <a href="https://c3po-workshop.github.io/2022/index" target="_blank">C3PO</a>: Associate chair
- - 2021, <a href="http://compilfr.ens-lyon.fr/quatorzieme-rencontre-compilation/" target="_blank"> French compilation days</a>: General Chair, <a href="https://c3po-workshop.github.io/2021/index" target="_blank"> C3PO</a>: Workshop General chair, <a href="https://2021.compas-conference.fr/" target="_blank"> Compas</a>: Track Chair
+ - 2021, <a href="https://c3po-workshop.github.io/2021/index" target="_blank"> C3PO</a>: Workshop General chair, <a href="https://2021.compas-conference.fr/" target="_blank"> Compas</a>: Track Chair
  - 2020, <a href="https://c3po-workshop.github.io/index" target="_blank"> C3PO</a>:  Workshop Associate Chair
  </td>
    </div>
@@ -87,7 +86,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - 2022: <a href="https://correctness-workshop.github.io/2022/" target="_blank"> Correctness</a>, ICCS 
+ - 2022: <a href="https://correctness-workshop.github.io/2022/" target="_blank"> Correctness</a>, ICCS, Compas 
  - 2021: <a href="https://2021.euro-par.org" target="_blank"> EuroPar</a> (Performance and power modeling, prediction and evaluation)
  - 2020: <a href="https://correctness-workshop.github.io/2020/" target="_blank"> Correctness</a>, <a href="https://sc20.supercomputing.org" target="_blank"> SC</a> (Performance)
  - 2019: <a href="https://correctness-workshop.github.io/2019/" target="_blank"> Correctness</a>, <a href="https://www.ppam.pl" target="_blank"> PPAM</a>, <a href="http://hpcs2019.cisedu.info/2-conference/symposia/symp05-4pad" target="_blank"> 4PAD </a>, <a href="https://2019.compas-conference.fr" target="_blank"> Compas </a>, <a href="https://omasew.github.io" target="_blank"> OMASE </a>
@@ -120,6 +119,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    <div class="panel-body">
  <td markdown="1">
  - Teacher assistant for the MPI hands on sessions of the <a href="https://ecoles-cea-edf-inria.fr/en/schools/ecole-informatique-2022/" target="_blank"> 2022 summer school on informatics  </a> 
+ - Midi de la bidouille - LLVM (2022)
  </td>
    </div>
  </div>
