@@ -26,21 +26,19 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 <br/> DPEI Inria@SiliconValley funding
 - **Internship**
 	- Pierre-Antoine Rouby (Undergrad at University of Bordeaux)
-	- Radjasouria VINAYAGAME (Undergrad at Enseirb-Matmeca)
+	- Radjasouria VINAYAGAME (Undergrad at Enseirb-Matmeca, 2 months in 2019-2020, 2 months in 2022)
+<!--- <br/> <br/> *Intégration continue et amélioration de la sortie de PARCOACH* --->
 	- Charly Castes, co-supervision with Olivier Aumage and Emmanuel Agullo (Undergrad at École Polytechnique)
 	- Mathieu Laurent, co-supervision with <a href="https://people.irisa.fr/Martin.Quinson/" target="_blank"> Martin Quinson</a> (Undergrad at ENS Rennes)
 <!--- <br/> *Evaluation d'outils de recherche de bugs de synchronisation en MPI* --->
 	- Vincent BRIDONNEAU (Undergrad at Enseirb-Matmec)
 <!--- <br/> <br/> *Static Selective Instrumentation for Parallel Programs Verification* --->
-	- Radjasouria VINAYAGAME (Undergrad at Enseirb-Matmeca, 2 months in 2019-2020)
-<!--- <br/> <br/> *Intégration continue et amélioration de la sortie de PARCOACH* --->
-	- Louise MERCIER (High school student, 2 weeks in 2019)
-<br/> Stage de découverte 
+	- Louise MERCIER (High school student, 2 weeks in 2019), Stage de découverte 
 	- Firmin MARTIN (Undergrad at ENS Lyon, 6 weeks internship in 2019)
 <!--- <br/> <br/> *Analyse statique pour aider la détection d’états équivalents dans SimGrid* --->
 	- Antoine TIREL (Undergrad at Enseirb-Matmeca, 3 months internship in 2018)
 <!--- <br/> <br/> *Utilisation de la compilation pour aider la vérification formelle* --->
-	- Ahmed Amine NASSIK (Undergrad at Polytech Grenoble, 3 months internship in 2017), co-supervision with Jean-François Méhaut (University of Grenoble, France)
+	- Ahmed Amine NASSIK (Undergrad at Polytech Grenoble, 3 months internship in 2017), co-supervision with Jean-François Méhaut (Univ. of Grenoble, France)
 <!--- <br/> <br/> *Optimisation d'un noyau de calcul à l'aide de BOAST* --->
 	- Hugo BRUNIE (Undergrad at Enseirb-Matmeca, 6 months internship in 2015), co-supervision with Patrick Carribault (CEA, France) and Denis Barthou (Bordeaux INP)
 <!--- <br/> <br/> *Validation des applications parallèles multi-modèles sur supercalculateur - Extension de PARCOACH* --->
@@ -58,6 +56,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
+- [Nov 2022] John Gilksberg, Université de Paris Saclay (member)
 - [Jan 2021] James Trotter, University of Oslo (reviewer)
 - [Dec 2020] Tao Chang, Institut Polytechnique de Paris (member) 
 - [June 2020] Jérémy Lagravière, University of Oslo (reviewer)
@@ -71,9 +70,9 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - 2022, <a href="https://icpp22.gitlabpages.inria.fr" target="_blank"> ICPP</a>: Local Arrangment Chair, <a href="https://project.inria.fr/sbac2022/" target="_blank">SBACPAD</a>, <a href="https://c3po-workshop.github.io/2022/index" target="_blank">C3PO</a>: Associate chair
- - 2021, <a href="https://c3po-workshop.github.io/2021/index" target="_blank"> C3PO</a>: Workshop General chair, <a href="https://2021.compas-conference.fr/" target="_blank"> Compas</a>: Track Chair
- - 2020, <a href="https://c3po-workshop.github.io/index" target="_blank"> C3PO</a>:  Workshop Associate Chair
+ - 2022, <a href="https://icpp22.gitlabpages.inria.fr" target="_blank"> ICPP</a> (Local Arrangment Chair), <a href="https://project.inria.fr/sbac2022/" target="_blank">SBACPAD</a>, <a href="https://c3po-workshop.github.io/2022/index" target="_blank">C3PO</a> (Associate chair)
+ - 2021, <a href="https://c3po-workshop.github.io/2021/index" target="_blank"> C3PO</a>: (General chair), <a href="https://2021.compas-conference.fr/" target="_blank"> Compas</a> (Track Chair)
+ - 2020, <a href="https://c3po-workshop.github.io/index" target="_blank"> C3PO</a> (Associate Chair)
  </td>
    </div>
  </div>
@@ -118,8 +117,8 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - Teacher assistant for the MPI hands on sessions of the <a href="https://ecoles-cea-edf-inria.fr/en/schools/ecole-informatique-2022/" target="_blank"> 2022 summer school on informatics  </a> 
- - Midi de la bidouille - LLVM (2022)
+ - Teacher assistant for the MPI hands on session of the <a href="https://ecoles-cea-edf-inria.fr/en/schools/ecole-informatique-2022/" target="_blank"> 2022 summer school on informatics  </a> 
+ - Midi de la bidouille at Inria on LLVM (2022)
  </td>
    </div>
  </div>
@@ -142,6 +141,20 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
 
+
+<div class="panel panel-info" markdown="1">
+  <div class="panel-heading">
+    <h3 class="panel-title"> Research positions </h3>
+  </div>
+  <div class="panel-body">
+<td markdown="1">
+- Oct. 2017-...: **Research scientist (CRCN)**, Inria Bordeaux (STORM team), France
+- Dec.2016-Sept.2017: **Postdoctoral fellow**, Inria Grenoble (CORSE team), France
+- Oct.2015-Oct.2016: **Postdoctoral fellow**, University of California Berkeley, USA
+</td>
+  </div>
+</div>
+
 <div class="panel-group" id="accordion" markdown="1">
  <div class="panel panel-info">
   <div class="panel-heading">
@@ -161,15 +174,3 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
   </div>
 </div>
 
-<div class="panel panel-info" markdown="1">
-  <div class="panel-heading">
-    <h3 class="panel-title"> Research positions </h3>
-  </div>
-  <div class="panel-body">
-<td markdown="1">
-- Oct. 2017-...: **Research scientist (CRCN)**, Inria Bordeaux (STORM team), France
-- Dec.2016-Sept.2017: **Postdoctoral fellow**, Inria Grenoble (CORSE team), France
-- Oct.2015-Oct.2016: **Postdoctoral fellow**, University of California Berkeley, USA
-</td>
-  </div>
-</div>

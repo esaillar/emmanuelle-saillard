@@ -19,6 +19,7 @@ I have created new outreach activities with Suzane Fleury (Inria, communication 
  - Visits of the lab: Co-organization of 2-day visits of our lab (Inria+Labri) for undergrad students (L3 ENS Lyon) in 2021 with M. Bonamy
  - Fête de la science (since 2017)
  - Circuit scientifique bordelais (2021)
+ - <a href="https://www.onisep.fr/tchats/Revivez/revivez-le-tchat-sur-les-metiers-du-numerique-et-des-sciences-informatiques" target="_blank"> Tchat</a> sur les métiers du numérique et des sciences informatiques (2022)
  </td>
    </div>
  </div>
