@@ -9,8 +9,9 @@ permalink: /publications/
 ### 2022
 
 <b> [<a href="https://correctness-workshop.github.io/2022/" target="_blank">Correctness 2022</a>] </b>
+<b> [<a href="https://hal.inria.fr/hal-03882459/file/paper.pdf"  target="_blank">pdf </a>] </b>
 <p markdown="1">
-W8. Emmanuelle Saillard, Marc Sergent, Celia Tassadit Ait Kaci, Denis Barthou, "Static Local Concurrency Errors Detection in MPI-RMA Programs", Correctness 2022. TO APPEAR
+W8. Emmanuelle Saillard, Marc Sergent, Celia Tassadit Ait Kaci, Denis Barthou, "Static Local Concurrency Errors Detection in MPI-RMA Programs", Correctness 2022 - Sixth International Workshop on Software Correctness for HPC Applications, Nov 2022, Dallas, United States.
 </p>
 
 <b> [<a href="https://events.tuni.fi/cinc2022/" target="_blank">CinC 2022</a>] </b>

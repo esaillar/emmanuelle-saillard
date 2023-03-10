@@ -6,11 +6,8 @@ permalink: /research/
 
 
 
-<div class="panel panel-info" markdown="1">
-  <div class="panel-heading">
-    <h3 class="panel-title">Research topics</h3>
-  </div>
-  <div class="panel-body" markdown="1">
+<h3>Research topics</h3>
+
 I am interested in developing tools and methods that aim at **debugging** and **optimizing** HPC applications.
 
 I have developed **PARCOACH**, a static/dynamic tool that detects collective errors in parallel applications. The static part identifies the reduced set of collective communications that may eventually lead to potential deadlock situations,
@@ -18,8 +15,6 @@ I have developed **PARCOACH**, a static/dynamic tool that detects collective err
  interrupting all processes, if the schedule leads to a deadlock situation. 
 
 PARCOACH is implemented as a **LLVM pass** and is still under development.
-  </div>
-</div>
 
 
 <div class="panel panel-info" markdown="1">
@@ -28,8 +23,6 @@ PARCOACH is implemented as a **LLVM pass** and is still under development.
   </div>
   <div class="panel-body">
 <td markdown="1">
-- <p> Exacard, ANR 2018 (Participant) </p> 
-- <p> <a href="https://team.inria.fr/cohpc/" target="_blank">COHPC</a> : COrrectness and performance of HPC applications (French PI), Inria associate team (2019 - 2021), 10k€/year </p> 
 - <p> <a href="http://www.microcard.eu/index-en.html" target="_blank">Microcard</a>, H2020 (Participant) </p> 
 - <p> Plan de relance Inria-Atos </p> 
 </td>
@@ -42,6 +35,8 @@ PARCOACH is implemented as a **LLVM pass** and is still under development.
   </div>
   <div class="panel-body">
 <td markdown="1">
+- <p> <a href="https://team.inria.fr/cohpc/" target="_blank">COHPC</a> : COrrectness and performance of HPC applications (French PI), Inria associate team (2019 - 2022), 10k€/year </p> 
+- <p> Exacard, ANR 2018 (Participant) </p> 
 - <p> <a href="http://hacspecis.gforge.inria.fr" target="_blank">HAC SPECIS</a>, Inria project lab on High-performance Application and Computers: Studying PErformance and Correctness In Simulation (2016 - 2020).
 </td>
   </div>

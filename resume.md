@@ -16,16 +16,20 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 <td markdown="1">
 **Current students**
 - **PhD**
-	- [2019-2022] Célia Tassadit AITKACI, co-supervision with <a href="https://www.labri.fr/perso/barthou/" target="_blank">Denis Barthou</a> (Bordeaux INP) and Marc Sergent (ATOS)
-	- [2019-2022] Van Man NGUYEN, co-supervision with Denis Barthou (Bordeaux INP), Patrick Carribault (CEA), and Julien Jaeger (CEA)
+	- [2022-2025] Radjasouria VINAYAGAME, co-supervision with <a href="https://dept-info.labri.fr/~thibault/" target="_blank">Samuel Thibault</a> (Univ. of Bordeaux) and Marc Sergent (ATOS)
+- **Internship**
+	- Jad El Karchi (Undergrad at Enseirb-Matmeca, 3 months internship in 2023), co-supervision with Mihail Popov
 
 **Former students**
 
+- **PhD Students**
+	- [2019-2022] Célia Tassadit AITKACI, co-supervision with <a href="https://www.labri.fr/perso/barthou/" target="_blank">Denis Barthou</a> (Bordeaux INP) and Marc Sergent (ATOS), now a manager at Capgemini
+	- [2019-2022] Van Man NGUYEN, co-supervision with Denis Barthou (Bordeaux INP), Patrick Carribault (CEA), and Julien Jaeger (CEA), now an engineer at Atos
 - **Postdoc**
   - [April 2019 - August 2020] Pierre HUCHANT, co-supervision with  <a href="https://crd.lbl.gov/departments/computer-science/class/members/class-staff/costin-iancu/" target="_blank">Costin Iancu</a> (LBNL) 
 <br/> DPEI Inria@SiliconValley funding
 - **Internship**
-	- Pierre-Antoine Rouby (Undergrad at University of Bordeaux)
+	- Pierre-Antoine Rouby (Undergrad at University of Bordeaux, 3 months internship in 2021 + 6 months internship in 2022)
 	- Radjasouria VINAYAGAME (Undergrad at Enseirb-Matmeca, 2 months in 2019-2020, 2 months in 2022)
 <!--- <br/> <br/> *Intégration continue et amélioration de la sortie de PARCOACH* --->
 	- Charly Castes, co-supervision with Olivier Aumage and Emmanuel Agullo (Undergrad at École Polytechnique)
@@ -46,10 +50,15 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 <!--- <br/> <br/> *Evaluation d'une méthode d'analyse dynamique pour la validation des applications en environnement massivement parallèle* --->
 
 
+
 </td>
   </div>
 </div>
 
+
+<div class="row">
+
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
 <div class="panel panel-info" markdown="1">
    <div class="panel-heading">
      <h3 class="panel-title">PhD Jury</h3>
@@ -63,22 +72,31 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
  </td>
    </div>
  </div>
+ </div>
 
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
 <div class="panel panel-info" markdown="1">
    <div class="panel-heading">
      <h3 class="panel-title">Organizational</h3>
    </div>
    <div class="panel-body">
  <td markdown="1">
+ - 2023, EuroMPI (Publicity and Web Chair, Publisher Chair)
  - 2022, <a href="https://icpp22.gitlabpages.inria.fr" target="_blank"> ICPP</a> (Local Arrangment Chair), <a href="https://project.inria.fr/sbac2022/" target="_blank">SBACPAD</a>, <a href="https://c3po-workshop.github.io/2022/index" target="_blank">C3PO</a> (Associate chair)
- - 2021, <a href="https://c3po-workshop.github.io/2021/index" target="_blank"> C3PO</a>: (General chair), <a href="https://2021.compas-conference.fr/" target="_blank"> Compas</a> (Track Chair)
+ - 2021, <a href="https://c3po-workshop.github.io/2021/index" target="_blank"> C3PO</a>: (General Chair), <a href="https://2021.compas-conference.fr/" target="_blank"> Compas</a> (Track Chair)
  - 2020, <a href="https://c3po-workshop.github.io/index" target="_blank"> C3PO</a> (Associate Chair)
  </td>
    </div>
+</div>
+</div>
+ 
  </div>
+
+
  
- 
- 
+<div class="row">
+
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
  <div class="panel panel-info" markdown="1">
    <div class="panel-heading">
      <h3 class="panel-title">Program Committee</h3>
@@ -93,7 +111,25 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
  </td>
    </div>
  </div>
+ </div>
  
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+
+ <div class="panel panel-info" markdown="1">
+   <div class="panel-heading">
+     <h3 class="panel-title">Tutorials / Summer schools</h3>
+   </div>
+   <div class="panel-body">
+ <td markdown="1">
+ - Teacher assistant for the MPI hands on session of the <a href="https://ecoles-cea-edf-inria.fr/en/schools/ecole-informatique-2022/" target="_blank"> 2022 summer school on informatics  </a> 
+ - Midi de la bidouille at Inria on LLVM (2022)
+ </td>
+   </div>
+ </div>
+</div>
+
+</div>
+
 
  <div class="panel panel-info" markdown="1">
    <div class="panel-heading">
@@ -111,17 +147,6 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 
 
 
- <div class="panel panel-info" markdown="1">
-   <div class="panel-heading">
-     <h3 class="panel-title">Tutorials / Summer schools</h3>
-   </div>
-   <div class="panel-body">
- <td markdown="1">
- - Teacher assistant for the MPI hands on session of the <a href="https://ecoles-cea-edf-inria.fr/en/schools/ecole-informatique-2022/" target="_blank"> 2022 summer school on informatics  </a> 
- - Midi de la bidouille at Inria on LLVM (2022)
- </td>
-   </div>
- </div>
 
 
 

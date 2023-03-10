@@ -11,21 +11,16 @@ layout: page
 
 
 
+<div style="display: flex; flex-direction:row;">
 
+<div class="col-xs-16 col-sm-16 col-md-8 col-lg-8 col-xl-8">
 
-<div class="panel panel-info" markdown="1">
-  <div class="panel-heading">
-    <h3 class="panel-title">Biography</h3>
-  </div>
-  <div class="panel-body">
-Emmanuelle Saillard-Virouleau is a tenured research scientist (CRCN) at Inria Bordeaux. She received her PhD in Computer science from the University of Bordeaux in 2015.
+<p>Emmanuelle Saillard-Virouleau is a tenured research scientist (CRCN) at Inria Bordeaux. She received her PhD in Computer science from the University of Bordeaux in 2015.
 From October 2015 to October 2016, she was employed as a postdoctoral researcher at the University of California Berkeley (USA). During this time, she developed dynamic program analyses for communication and synchronization optimizations in large scientific codes. She  was supervised by Professor Koushik Sen (UCB) and Costin Iancu (Lawrence Berkeley National Lab).
 From December 2016 to September 2017, she worked on the European project HPC4E. Her goal was to optimize kernels of some applications developed in the project with the metaprogramming language BOAST. She was supervised by Jean-François Mehaut and Brice Videau. 
 In October 2017, she joined the STORM team at Inria Bordeaux as a tenured research scientist (CRCN).
-
-Her research interests are optimization and verification of HPC applications. 
-  </div>
-</div>
+</p>
+<p>Her research interests are optimization and verification of HPC applications.</p> 
 
 
 
@@ -52,6 +47,26 @@ Code analysis, Debugging, Verification, Static Analysis, Compilation, Optimizati
 </div>
 
 
+</div>
 
 
 
+
+
+<div class="col-xs-8 col-sm-8 col-md-4 col-lg-4 col-xl-4">
+
+<div class="panel panel-danger" markdown="1">
+  <div class="panel-heading">
+    <h3 class="panel-title">News</h3>
+  </div>
+  <div class="panel-body">
+
+  <a href="https://parcoach.github.io/">PARCOACH</a> 2.2.0 is now available !
+
+  </div>
+
+
+</div>
+
+</div>
+</div>
