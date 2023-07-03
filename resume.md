@@ -16,9 +16,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 <td markdown="1">
 **Current students**
 - **PhD**
-	- [2022-2025] Radjasouria VINAYAGAME, co-supervision with <a href="https://dept-info.labri.fr/~thibault/" target="_blank">Samuel Thibault</a> (Univ. of Bordeaux) and Marc Sergent (ATOS)
-- **Internship**
-	- Jad El Karchi (Undergrad at Enseirb-Matmeca, 3 months internship in 2023), co-supervision with Mihail Popov
+	- [2022-2025] Radjasouria VINAYAGAME, co-supervision with <a href="https://dept-info.labri.fr/~thibault/" target="_blank">Samuel Thibault</a> (Univ. of Bordeaux) and Van Man Nguyen (ATOS)
 
 **Former students**
 
@@ -29,13 +27,14 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
   - [April 2019 - August 2020] Pierre HUCHANT, co-supervision with  <a href="https://crd.lbl.gov/departments/computer-science/class/members/class-staff/costin-iancu/" target="_blank">Costin Iancu</a> (LBNL) 
 <br/> DPEI Inria@SiliconValley funding
 - **Internship**
+	- Jad El Karchi (Undergrad at Enseirb-Matmeca, 3 months internship in 2023), co-supervision with <a href="https://gateauaulait.github.io/mihail.popov/" target="_blank"> Mihail Popov </a>
 	- Pierre-Antoine Rouby (Undergrad at University of Bordeaux, 3 months internship in 2021 + 6 months internship in 2022)
 	- Radjasouria VINAYAGAME (Undergrad at Enseirb-Matmeca, 2 months in 2019-2020, 2 months in 2022)
 <!--- <br/> <br/> *Intégration continue et amélioration de la sortie de PARCOACH* --->
-	- Charly Castes, co-supervision with Olivier Aumage and Emmanuel Agullo (Undergrad at École Polytechnique)
-	- Mathieu Laurent, co-supervision with <a href="https://people.irisa.fr/Martin.Quinson/" target="_blank"> Martin Quinson</a> (Undergrad at ENS Rennes)
+	- Charly Castes, co-supervision with Olivier Aumage and Emmanuel Agullo (Undergrad at École Polytechnique, 6 months in 2021)
+	- Mathieu Laurent, co-supervision with <a href="https://people.irisa.fr/Martin.Quinson/" target="_blank"> Martin Quinson</a> (Undergrad at ENS Rennes, 2021)
 <!--- <br/> *Evaluation d'outils de recherche de bugs de synchronisation en MPI* --->
-	- Vincent BRIDONNEAU (Undergrad at Enseirb-Matmec)
+	- Vincent BRIDONNEAU (Undergrad at Enseirb-Matmeca, 6 months in 2020)
 <!--- <br/> <br/> *Static Selective Instrumentation for Parallel Programs Verification* --->
 	- Louise MERCIER (High school student, 2 weeks in 2019), Stage de découverte 
 	- Firmin MARTIN (Undergrad at ENS Lyon, 6 weeks internship in 2019)
@@ -65,6 +64,8 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
+- [Sept 2023] Andreas Thune, University of Oslo (reviewer)
+- [Jul 2023] Amaury Maillé, ENS Lyon (guest)
 - [Nov 2022] John Gilksberg, Université de Paris Saclay (member)
 - [Jan 2021] James Trotter, University of Oslo (reviewer)
 - [Dec 2020] Tao Chang, Institut Polytechnique de Paris (member) 
@@ -81,9 +82,9 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - 2023, EuroMPI (Publicity and Web Chair, Publisher Chair)
+ - 2023, <a href="https://eurompi23.github.io" target="_blank"> EuroMPI</a> (Publicity and Web Chair, Publisher Chair), <a href="https://sites.google.com/view/hpc-bugs-fest/home" target="_blank"> HPC Bugs Fest</a> (General chair)
  - 2022, <a href="https://icpp22.gitlabpages.inria.fr" target="_blank"> ICPP</a> (Local Arrangment Chair), <a href="https://project.inria.fr/sbac2022/" target="_blank">SBACPAD</a>, <a href="https://c3po-workshop.github.io/2022/index" target="_blank">C3PO</a> (Associate chair)
- - 2021, <a href="https://c3po-workshop.github.io/2021/index" target="_blank"> C3PO</a>: (General Chair), <a href="https://2021.compas-conference.fr/" target="_blank"> Compas</a> (Track Chair)
+ - 2021, <a href="https://c3po-workshop.github.io/2021/index" target="_blank"> C3PO</a> (General Chair), <a href="https://2021.compas-conference.fr/" target="_blank"> Compas</a> (Track Chair)
  - 2020, <a href="https://c3po-workshop.github.io/index" target="_blank"> C3PO</a> (Associate Chair)
  </td>
    </div>
@@ -103,6 +104,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
+ - 2023: <a href="https://correctness-workshop.github.io/2023/" target="_blank"> Correctness</a>, Compas 
  - 2022: <a href="https://correctness-workshop.github.io/2022/" target="_blank"> Correctness</a>, ICCS, Compas 
  - 2021: <a href="https://2021.euro-par.org" target="_blank"> EuroPar</a> (Performance and power modeling, prediction and evaluation)
  - 2020: <a href="https://correctness-workshop.github.io/2020/" target="_blank"> Correctness</a>, <a href="https://sc20.supercomputing.org" target="_blank"> SC</a> (Performance)
@@ -139,7 +141,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
  <td markdown="1">
  - Inria recruitment Jury (2022)
  - In charge of the scientific mediation for the Inria Bordeaux Sud-Ouest Research Center (since 2021)
- - Treasurer of AGOS (Association de Gestion des Œuvres Sociales) at Inria Bordeaux research center and member of AGOS national (since 2018)
+ - Treasurer of AGOS (Association de Gestion des Œuvres Sociales) at Inria Bordeaux research center and member of AGOS national (2018-2023)
  - Member of the Commission de délégation (delegation, postdoc, cordi-s) (since 2019)
  </td>
    </div>

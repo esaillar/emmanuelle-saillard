@@ -7,6 +7,10 @@ permalink: /teaching/
 
 # Teaching 
 
+<h5>Spring 2023</h5>
+<td markdown="1">
+* Introduction to research 
+	* University of Bordeaux, 3rd year
 
 <h5>Fall 2022</h5>
 <td markdown="1">

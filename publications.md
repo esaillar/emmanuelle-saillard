@@ -6,6 +6,10 @@ permalink: /publications/
 
 # Publications
 
+### 2023
+
+J3. Mihail Popov, Lana Scravaglieri, Laércio Lima Pilla, Amina Guermouche, Olivier Aumage; Emmanuelle Saillard, "Optimizing Performance and Energy Across Problem Sizes Through a Search Space Exploration and Machine Learning", JPDC, 2023, To appear
+
 ### 2022
 
 <b> [<a href="https://correctness-workshop.github.io/2022/" target="_blank">Correctness 2022</a>] </b>
