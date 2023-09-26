@@ -7,6 +7,11 @@ permalink: /teaching/
 
 # Teaching 
 
+<h5>Fall 2023</h5>
+<td markdown="1">
+* Languages of parallelism (Teacher)
+	* Enseirb-Matmeca, 3rd year
+
 <h5>Spring 2023</h5>
 <td markdown="1">
 * Introduction to research 

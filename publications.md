@@ -8,7 +8,20 @@ permalink: /publications/
 
 ### 2023
 
-J3. Mihail Popov, Lana Scravaglieri, Laércio Lima Pilla, Amina Guermouche, Olivier Aumage; Emmanuelle Saillard, "Optimizing Performance and Energy Across Problem Sizes Through a Search Space Exploration and Machine Learning", JPDC, 2023, To appear
+<b> [<a href="https://sites.google.com/view/hpc-bugs-fest/home" target="_blank">HPC Bugs Fest 2023</a>] </b>
+<p markdown="1">
+W10. Philippe Virouleau, Emmanuelle Saillard, Marc Sergent, and Pierre Lemarinier, "Highlighting PARCOACH Improvements on MBI", HPC Bugs Fest 2023. To appear
+</p>
+
+
+<b> [<a href="https://correctness-workshop.github.io/2023/" target="_blank">Correctness 2023</a>] </b>
+<p markdown="1">
+W9. Radjasouria Vinayagame, Van Man Nguyen, Marc Sergent, Samuel Thibault, and Emmanuelle Saillard, " Rethinking Data Race Detection in MPI-RMA Programs", Correctness 2023. To appear
+</p>
+
+<p markdown="1">
+J3. Mihail Popov, Lana Scravaglieri, Laércio Lima Pilla, Amina Guermouche, Olivier Aumage, Emmanuelle Saillard, "Optimizing Performance and Energy Across Problem Sizes Through a Search Space Exploration and Machine Learning", JPDC, 2023. To appear
+</p>
 
 ### 2022
 

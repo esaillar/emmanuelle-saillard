@@ -104,7 +104,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - 2023: <a href="https://correctness-workshop.github.io/2023/" target="_blank"> Correctness</a>, Compas 
+ - 2023: <a href="https://correctness-workshop.github.io/2023/" target="_blank"> Correctness</a>, Compas, CC 
  - 2022: <a href="https://correctness-workshop.github.io/2022/" target="_blank"> Correctness</a>, ICCS, Compas 
  - 2021: <a href="https://2021.euro-par.org" target="_blank"> EuroPar</a> (Performance and power modeling, prediction and evaluation)
  - 2020: <a href="https://correctness-workshop.github.io/2020/" target="_blank"> Correctness</a>, <a href="https://sc20.supercomputing.org" target="_blank"> SC</a> (Performance)
@@ -123,6 +123,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
+ - PARCOACH tutorial @EuroMPI 2023
  - Teacher assistant for the MPI hands on session of the <a href="https://ecoles-cea-edf-inria.fr/en/schools/ecole-informatique-2022/" target="_blank"> 2022 summer school on informatics  </a> 
  - Midi de la bidouille at Inria on LLVM (2022)
  </td>
