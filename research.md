@@ -67,6 +67,7 @@ PARallel COntrol flow Anomaly CHecker (PARCOACH) aims at helping developers in t
   <div id="collapse2" class="panel-collapse collapse">
   <div class="panel-body">
 <td markdown="1">
+- Latest Advancements in PARACOACH for MPI Code Verification, <a href="https://toolsworkshop.hlrs.de/2023/program.html" target="_blank">International Parallel Tools Workshop 2023</a>
 - MTV seminar (University of Bordeaux) - 2022
 - LLVM pour les nuls, CLAP seminar - 2022
 - <a href="http://gpl2018.imag.fr/index.html" target="_blank">Journées nationales du GDR GPL, Grenoble June 12-15, 2018</a>

@@ -6,21 +6,31 @@ permalink: /publications/
 
 # Publications
 
+### 2024
+
+<b> [<a href="https://www.ipdps.org" target="_blank">IPDPS 2024</a>] </b>
+<p markdown="1">
+C10. Jad El Karchi, Hanze Chen, Ali Tehrani, Ali Jannesari, Mihail Popov, and Emmanuelle Saillard, "MPI Errors Detection using GNN Embedding and Vector Embedding over LLVM IR", IPDPS 2024. TO APPEAR 
+</p>
+
 ### 2023
 
 <b> [<a href="https://sites.google.com/view/hpc-bugs-fest/home" target="_blank">HPC Bugs Fest 2023</a>] </b>
+<b> [<a href="https://dl.acm.org/doi/fullHtml/10.1145/3624062.3624093"  target="_blank">pdf </a>] </b>
 <p markdown="1">
-W10. Philippe Virouleau, Emmanuelle Saillard, Marc Sergent, and Pierre Lemarinier, "Highlighting PARCOACH Improvements on MBI", HPC Bugs Fest 2023. To appear
+W10. Philippe Virouleau, Emmanuelle Saillard, Marc Sergent, and Pierre Lemarinier, "Highlighting PARCOACH Improvements on MBI", HPC Bugs Fest 2023. In Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis (SC-W 2023), November 12--17, 2023, Denver, CO, USA. 
 </p>
 
 
 <b> [<a href="https://correctness-workshop.github.io/2023/" target="_blank">Correctness 2023</a>] </b>
+<b> [<a href="https://cel.hal.science/INRIA-BORDEAUX/hal-04272399v1"  target="_blank">pdf </a>] </b>
 <p markdown="1">
-W9. Radjasouria Vinayagame, Van Man Nguyen, Marc Sergent, Samuel Thibault, and Emmanuelle Saillard, " Rethinking Data Race Detection in MPI-RMA Programs", Correctness 2023. To appear
+W9. Radjasouria Vinayagame, Van Man Nguyen, Marc Sergent, Samuel Thibault, and Emmanuelle Saillard, " Rethinking Data Race Detection in MPI-RMA Programs", Correctness 2023. In Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis (SC-W 2023), November 12--17, 2023, Denver, CO, USA.
 </p>
 
+<b> [<a href="https://dl.acm.org/doi/10.1016/j.jpdc.2023.104720" target="_blank">JPDC 2023</a>] </b>
 <p markdown="1">
-J3. Mihail Popov, Lana Scravaglieri, Laércio Lima Pilla, Amina Guermouche, Olivier Aumage, Emmanuelle Saillard, "Optimizing Performance and Energy Across Problem Sizes Through a Search Space Exploration and Machine Learning", JPDC, 2023. To appear
+J3. Mihail Popov, Lana Scravaglieri, Laércio Lima Pilla, Amina Guermouche, Olivier Aumage, Emmanuelle Saillard, "Optimizing Performance and Energy Across Problem Sizes Through a Search Space Exploration and Machine Learning", JPDC, 2023. 
 </p>
 
 ### 2022

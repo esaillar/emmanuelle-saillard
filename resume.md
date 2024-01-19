@@ -17,6 +17,8 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 **Current students**
 - **PhD**
 	- [2022-2025] Radjasouria VINAYAGAME, co-supervision with <a href="https://dept-info.labri.fr/~thibault/" target="_blank">Samuel Thibault</a> (Univ. of Bordeaux) and Van Man Nguyen (ATOS)
+- **Internship**
+	- [March 2023] Asia Auville,  co-supervision with <a href="https://gateauaulait.github.io/mihail.popov/" target="_blank"> Mihail Popov </a>
 
 **Former students**
 
@@ -82,6 +84,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
+ - 2024, <a href="https://c3po-workshop.github.io/2024/index" target="_blank">C3PO</a> (General chair)
  - 2023, <a href="https://eurompi23.github.io" target="_blank"> EuroMPI</a> (Publicity and Web Chair, Publisher Chair), <a href="https://sites.google.com/view/hpc-bugs-fest/home" target="_blank"> HPC Bugs Fest</a> (General chair)
  - 2022, <a href="https://icpp22.gitlabpages.inria.fr" target="_blank"> ICPP</a> (Local Arrangment Chair), <a href="https://project.inria.fr/sbac2022/" target="_blank">SBACPAD</a>, <a href="https://c3po-workshop.github.io/2022/index" target="_blank">C3PO</a> (Associate chair)
  - 2021, <a href="https://c3po-workshop.github.io/2021/index" target="_blank"> C3PO</a> (General Chair), <a href="https://2021.compas-conference.fr/" target="_blank"> Compas</a> (Track Chair)
@@ -104,10 +107,11 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
+ - 2024: Cluster
  - 2023: <a href="https://correctness-workshop.github.io/2023/" target="_blank"> Correctness</a>, Compas, CC 
  - 2022: <a href="https://correctness-workshop.github.io/2022/" target="_blank"> Correctness</a>, ICCS, Compas 
  - 2021: <a href="https://2021.euro-par.org" target="_blank"> EuroPar</a> (Performance and power modeling, prediction and evaluation)
- - 2020: <a href="https://correctness-workshop.github.io/2020/" target="_blank"> Correctness</a>, <a href="https://sc20.supercomputing.org" target="_blank"> SC</a> (Performance)
+ - 2020: <a href="https://correctness-workshop.github.io/2020/" target="_blank"> Correctness</a>, <a href="https://sc20.supercomputing.org" target="_blank"> SC</a> (Performance track)
  - 2019: <a href="https://correctness-workshop.github.io/2019/" target="_blank"> Correctness</a>, <a href="https://www.ppam.pl" target="_blank"> PPAM</a>, <a href="http://hpcs2019.cisedu.info/2-conference/symposia/symp05-4pad" target="_blank"> 4PAD </a>, <a href="https://2019.compas-conference.fr" target="_blank"> Compas </a>, <a href="https://omasew.github.io" target="_blank"> OMASE </a>
  - 2018: <a href="https://sc18.supercomputing.org" target="_blank"> SC</a> (Workshop), <a href="http://2018.compas-conference.fr/#" target="_blank"> Compas </a>, <a href="https://www.isc-hpc.com" target="_blank"> ISC</a> (Poster)
  </td>
@@ -140,10 +144,10 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - Inria recruitment Jury (2022)
- - In charge of the scientific mediation for the Inria Bordeaux Sud-Ouest Research Center (since 2021)
- - Treasurer of AGOS (Association de Gestion des Œuvres Sociales) at Inria Bordeaux research center and member of AGOS national (2018-2023)
+ - Inria recruitment Jury (for Bordeaux in 2022, for Lyon in 2024)
+ - In charge of the popularization activities for the Inria Bordeaux Research Center (since 2021)
  - Member of the Commission de délégation (delegation, postdoc, cordi-s) (since 2019)
+ - Treasurer of AGOS (Association de Gestion des Œuvres Sociales) at Inria Bordeaux research center and member of AGOS national (2018-2023)
  </td>
    </div>
  </div>
@@ -160,7 +164,12 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - Coordinator and active member of the <a href="http://compilfr.ens-lyon.fr" target="_blank"> French Compilation group </a> (now CLAP) 
+ - Participation of the Associate Professor selection jury at 
+	- Bordeaux INP in 2022 and 2023
+	- the university of Rennes in 2021
+	- the university of Perpignan in 2020
+ - Member of the <a href="https://www.fondation-blaise-pascal.org" target="_blank"> Blaise Pascal Fondation</a>
+ - Coordinator and member of the <a href="http://compilfr.ens-lyon.fr" target="_blank"> French Compilation group </a> (now CLAP) 
  </td>
    </div>
  </div>
