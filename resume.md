@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" target="_blank">here</a> in english (last updated in 2019) or in <a href="{{site.baseurl}}/resources/cv_french.pdf" target="_blank">french</a> (last updated in 2022) 
+You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" target="_blank">here</a> in english (last updated in 2024) or in <a href="{{site.baseurl}}/resources/cv_french.pdf" target="_blank">french</a> (last updated in 2022) 
 
 
 
@@ -16,18 +16,20 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 <td markdown="1">
 **Current students**
 - **PhD**
-	- [2022-2025] Radjasouria VINAYAGAME, co-supervision with <a href="https://dept-info.labri.fr/~thibault/" target="_blank">Samuel Thibault</a> (Univ. of Bordeaux) and Van Man Nguyen (ATOS)
+	- [2022-2025] Radjasouria VINAYAGAME, co-supervision with <a href="https://dept-info.labri.fr/~thibault/" target="_blank">Samuel Thibault</a> (Univ. of Bordeaux) and Van Man Nguyen (Eviden)
 - **Internship**
-	- [March 2023] Asia Auville,  co-supervision with <a href="https://gateauaulait.github.io/mihail.popov/" target="_blank"> Mihail Popov </a>
+	- [March 2023] Asia Auville,  co-supervision with <a href="https://gateauaulait.github.io/mihail.popov/" target="_blank"> Mihail Popov </a> (Inria)
 
 **Former students**
 
 - **PhD Students**
 	- [2019-2022] Célia Tassadit AITKACI, co-supervision with <a href="https://www.labri.fr/perso/barthou/" target="_blank">Denis Barthou</a> (Bordeaux INP) and Marc Sergent (ATOS), now a manager at Capgemini
-	- [2019-2022] Van Man NGUYEN, co-supervision with Denis Barthou (Bordeaux INP), Patrick Carribault (CEA), and Julien Jaeger (CEA), now an engineer at Atos
+	- [2019-2022] Van Man NGUYEN, co-supervision with Denis Barthou (Bordeaux INP), Patrick Carribault (CEA), and Julien Jaeger (CEA), now an engineer at Eviden
 - **Postdoc**
   - [April 2019 - August 2020] Pierre HUCHANT, co-supervision with  <a href="https://crd.lbl.gov/departments/computer-science/class/members/class-staff/costin-iancu/" target="_blank">Costin Iancu</a> (LBNL) 
 <br/> DPEI Inria@SiliconValley funding
+- **Engineer**
+  - [2021-2022] Chiheb Sakka, co-supervised with Denis Barthou (Exacard Project)
 - **Internship**
 	- Jad El Karchi (Undergrad at Enseirb-Matmeca, 3 months internship in 2023), co-supervision with <a href="https://gateauaulait.github.io/mihail.popov/" target="_blank"> Mihail Popov </a>
 	- Pierre-Antoine Rouby (Undergrad at University of Bordeaux, 3 months internship in 2021 + 6 months internship in 2022)
@@ -84,7 +86,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - 2024, <a href="https://c3po-workshop.github.io/2024/index" target="_blank">C3PO</a> (General chair)
+ - 2024, <a href="https://c3po-workshop.github.io/2024/index" target="_blank">C3PO</a> (General chair), <a href="https://sc-protools-workshop.github.io/protools24/" target="_blank">Protools</a> (Co chair), <a href="https://sites.google.com/view/hpc-bugs-fest/home" target="_blank"> HPC Bugs Fest</a> (General chair)
  - 2023, <a href="https://eurompi23.github.io" target="_blank"> EuroMPI</a> (Publicity and Web Chair, Publisher Chair), <a href="https://sites.google.com/view/hpc-bugs-fest/home" target="_blank"> HPC Bugs Fest</a> (General chair)
  - 2022, <a href="https://icpp22.gitlabpages.inria.fr" target="_blank"> ICPP</a> (Local Arrangment Chair), <a href="https://project.inria.fr/sbac2022/" target="_blank">SBACPAD</a>, <a href="https://c3po-workshop.github.io/2022/index" target="_blank">C3PO</a> (Associate chair)
  - 2021, <a href="https://c3po-workshop.github.io/2021/index" target="_blank"> C3PO</a> (General Chair), <a href="https://2021.compas-conference.fr/" target="_blank"> Compas</a> (Track Chair)
@@ -107,7 +109,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - 2024: Cluster
+ - 2024: Cluster, <a href="https://correctness-workshop.github.io/2024/" target="_blank"> Correctness</a>, Compas
  - 2023: <a href="https://correctness-workshop.github.io/2023/" target="_blank"> Correctness</a>, Compas, CC 
  - 2022: <a href="https://correctness-workshop.github.io/2022/" target="_blank"> Correctness</a>, ICCS, Compas 
  - 2021: <a href="https://2021.euro-par.org" target="_blank"> EuroPar</a> (Performance and power modeling, prediction and evaluation)
@@ -127,6 +129,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
+ - Teacher at <a href="https://gpl-ejcp.github.io/ejcp2024" target="_blank">EJCP 2024</a>, Analyse statique/dynamique des applications HPC
  - PARCOACH tutorial @EuroMPI 2023
  - Teacher assistant for the MPI hands on session of the <a href="https://ecoles-cea-edf-inria.fr/en/schools/ecole-informatique-2022/" target="_blank"> 2022 summer school on informatics  </a> 
  - Midi de la bidouille at Inria on LLVM (2022)
@@ -145,6 +148,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    <div class="panel-body">
  <td markdown="1">
  - Inria recruitment Jury (for Bordeaux in 2022, for Lyon in 2024)
+ - Responsible of a panel at the Inria scientific days (JSI) in 2023
  - In charge of the popularization activities for the Inria Bordeaux Research Center (since 2021)
  - Member of the Commission de délégation (delegation, postdoc, cordi-s) (since 2019)
  - Treasurer of AGOS (Association de Gestion des Œuvres Sociales) at Inria Bordeaux research center and member of AGOS national (2018-2023)
@@ -169,6 +173,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 	- the university of Rennes in 2021
 	- the university of Perpignan in 2020
  - Member of the <a href="https://www.fondation-blaise-pascal.org" target="_blank"> Blaise Pascal Fondation</a>
+ - Member of the executive board of the Société informatique de France (<a href="https://www.societe-informatique-de-france.fr" target="_blank">SIF</a>)
  - Coordinator and member of the <a href="http://compilfr.ens-lyon.fr" target="_blank"> French Compilation group </a> (now CLAP) 
  </td>
    </div>

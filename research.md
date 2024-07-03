@@ -23,8 +23,11 @@ PARCOACH is implemented as a **LLVM pass** and is still under development.
   </div>
   <div class="panel-body">
 <td markdown="1">
-- <p> <a href="http://www.microcard.eu/index-en.html" target="_blank">Microcard</a>, H2020 (Participant) </p> 
-- <p> Plan de relance Inria-Atos </p> 
+- <p> <a href="http://www.microcard.eu/index-en.html" target="_blank">MICROCARD</a> European project, H2020 - Participant in WP2 </p> 
+- <p> Plan de relance with Eviden </p>
+   - <p> Vérifications des applications MPI-RMA (2022-2023) - PI, 72k€ </p> 
+   - <p> Méthodes pour l'analyse des pannes reposant sur des techniques de types statistical learning (2022-2024) - coPI, 47k€ </p> 
+- <p> Inria's Exploratory Action <a href="https://www.inria.fr/fr/llm4dice"  target="_blank">LLM4DiCE</a>, Large Language Models for Detection and Correction of Errors (2024-2027) - scientific leader </p>
 </td>
   </div>
 </div>
@@ -35,21 +38,24 @@ PARCOACH is implemented as a **LLVM pass** and is still under development.
   </div>
   <div class="panel-body">
 <td markdown="1">
-- <p> <a href="https://team.inria.fr/cohpc/" target="_blank">COHPC</a> : COrrectness and performance of HPC applications (French PI), Inria associate team (2019 - 2022), 10k€/year </p> 
-- <p> Exacard, ANR 2018 (Participant) </p> 
-- <p> <a href="http://hacspecis.gforge.inria.fr" target="_blank">HAC SPECIS</a>, Inria project lab on High-performance Application and Computers: Studying PErformance and Correctness In Simulation (2016 - 2020).
+- <p> <a href="https://team.inria.fr/cohpc/" target="_blank">COHPC</a> : COrrectness and performance of HPC applications, Inria associate team (2019-2022) - French PI, 10k€/year </p> 
+- <p> Exacard, ANR 2018 - Participant </p> 
+- <p> <a href="http://hacspecis.gforge.inria.fr" target="_blank">HAC SPECIS</a>, Inria project lab on High-performance Application and Computers: Studying PErformance and Correctness In Simulation (2016-2020) - Participant
 </td>
   </div>
 </div>
 
 <div class="panel panel-info" markdown="1">
   <div class="panel-heading">
-    <h3 class="panel-title">Software</h3>
+    <h3 class="panel-title">Research Software</h3>
   </div>
   <div class="panel-body">
-PARallel COntrol flow Anomaly CHecker (PARCOACH) aims at helping developers in their debugging phase of parallel and distributed applications.
-
-<a href="https://team.inria.fr/storm/software/parcoach/" target="_blank">Read more about PARCOACH</a>
+<td markdown="1">
+- <p> PARallel COntrol flow Anomaly CHecker (PARCOACH) aims at helping developers in their debugging phase of parallel and distributed applications.
+<a href="https://team.inria.fr/storm/software/parcoach/" target="_blank">Read more about PARCOACH</a> </p>
+- <p> The MPI Bugs Initiative (MBI) is a framework that creates a MPI correctness benchmark suite and evaluates MPI verification tools. 
+<a href="https://gitlab.com/MpiBugsInitiative/MpiBugsInitiative" target="_blank">Gitlab repository</a> </p>
+</td>
   </div>
 </div>
 

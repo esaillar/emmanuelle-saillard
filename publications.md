@@ -13,6 +13,12 @@ permalink: /publications/
 C10. Jad El Karchi, Hanze Chen, Ali Tehrani, Ali Jannesari, Mihail Popov, and Emmanuelle Saillard, "MPI Errors Detection using GNN Embedding and Vector Embedding over LLVM IR", IPDPS 2024. TO APPEAR 
 </p>
 
+
+<b> [<a href="https://c3po-workshop.github.io/" target="_blank">C3PO 2024</a>] </b>
+<p markdown="1">
+W11. Radjasouria Vinayagame, Van Man Nguyen, Marc Sergent, Samuel Thibault and Emmanuelle Saillard. Static-Dynamic analysis for Performance and Accuracy of Data Race Detection in MPI One-Sided Programs. TO APPEAR
+</p>
+
 ### 2023
 
 <b> [<a href="https://sites.google.com/view/hpc-bugs-fest/home" target="_blank">HPC Bugs Fest 2023</a>] </b>
