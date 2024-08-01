@@ -8,6 +8,12 @@ permalink: /publications/
 
 ### 2024
 
+
+<b> [<a href="https://events.vsc.ac.at/event/123/" target="_blank">EuroMPI 2024</a>] </b>
+<p markdown="1">
+C11. Tim Jammer, Emmanuelle Saillard, Simon Schwitanski, Joachim Jenke, Radjasouria Vinayagame, Alexander Hueck, and Christian Bischof, "MPI-BugBench: A Framework for Assessing MPI Correctness Tools", EuroMPI 2024. TO APPEAR 
+</p>
+
 <b> [<a href="https://www.ipdps.org" target="_blank">IPDPS 2024</a>] </b>
 <p markdown="1">
 C10. Jad El Karchi, Hanze Chen, Ali Tehrani, Ali Jannesari, Mihail Popov, and Emmanuelle Saillard, "MPI Errors Detection using GNN Embedding and Vector Embedding over LLVM IR", IPDPS 2024. TO APPEAR 
@@ -15,6 +21,7 @@ C10. Jad El Karchi, Hanze Chen, Ali Tehrani, Ali Jannesari, Mihail Popov, and Em
 
 
 <b> [<a href="https://c3po-workshop.github.io/" target="_blank">C3PO 2024</a>] </b>
+<b> [<a href="https://hal.science/hal-04581890/document"  target="_blank">pdf </a>] </b>
 <p markdown="1">
 W11. Radjasouria Vinayagame, Van Man Nguyen, Marc Sergent, Samuel Thibault and Emmanuelle Saillard. Static-Dynamic analysis for Performance and Accuracy of Data Race Detection in MPI One-Sided Programs. TO APPEAR
 </p>
@@ -35,6 +42,7 @@ W9. Radjasouria Vinayagame, Van Man Nguyen, Marc Sergent, Samuel Thibault, and E
 </p>
 
 <b> [<a href="https://dl.acm.org/doi/10.1016/j.jpdc.2023.104720" target="_blank">JPDC 2023</a>] </b>
+<b> [<a href="https://dl.acm.org/doi/10.1016/j.jpdc.2023.104720"  target="_blank">pdf </a>] </b>
 <p markdown="1">
 J3. Mihail Popov, Lana Scravaglieri, Laércio Lima Pilla, Amina Guermouche, Olivier Aumage, Emmanuelle Saillard, "Optimizing Performance and Energy Across Problem Sizes Through a Search Space Exploration and Machine Learning", JPDC, 2023. 
 </p>
@@ -48,6 +56,7 @@ W8. Emmanuelle Saillard, Marc Sergent, Celia Tassadit Ait Kaci, Denis Barthou, "
 </p>
 
 <b> [<a href="https://events.tuni.fi/cinc2022/" target="_blank">CinC 2022</a>] </b>
+<b> [<a href="https://inria.hal.science/hal-03936903/document" target="_blank">pdf </a>] </b>
 <p markdown="1">
 C9. Chiheb Sakka, Amina Guermouche, Olivier Aumage, Emmanuelle Saillard, Mark Potse, Yves Coudière, Denis Barthou.  " A comparison of multithreading, vectorization, and GPU computing for the acceleration of cardiac electrophysiology models"
 </p>
@@ -66,6 +75,7 @@ W7. Charly Castes, Emmanuel Agullo, Olivier Aumage, and Emmanuelle Saillard, "De
 </p>
 
 <b> [<a href="https://www.sciencedirect.com/science/article/pii/S0167819121001022" target="_blank">Parallel Computing 2022</a>] </b>
+<b> [<a href="https://cea.hal.science/cea-03537990v1/file/mpi-detach.pdf"  target="_blank">pdf </a>] </b>
 <p markdown="1">
 J2. Protze, Joachim; Hermanns, Marc-André; Müller, Matthias S.; Nguyen, Van Man; Jaeger, Julien; Saillard, Emmanuelle; Carribault, Patrick; Barthou, Denis, "MPI detach — Towards automatic asynchronous local completion", Parallel Computing, Volume 109, 2022
 </p>

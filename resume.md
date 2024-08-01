@@ -109,10 +109,10 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - 2024: Cluster, <a href="https://correctness-workshop.github.io/2024/" target="_blank"> Correctness</a>, Compas
- - 2023: <a href="https://correctness-workshop.github.io/2023/" target="_blank"> Correctness</a>, Compas, CC 
+ - 2024: Cluster, <a href="https://correctness-workshop.github.io/2024/" target="_blank"> Correctness</a>, Compas, CC
+ - 2023: <a href="https://correctness-workshop.github.io/2023/" target="_blank"> Correctness</a>, Compas
  - 2022: <a href="https://correctness-workshop.github.io/2022/" target="_blank"> Correctness</a>, ICCS, Compas 
- - 2021: <a href="https://2021.euro-par.org" target="_blank"> EuroPar</a> (Performance and power modeling, prediction and evaluation)
+ - 2021: <a href="https://correctness-workshop.github.io/2021/" target="_blank"> Correctness</a>, <a href="https://2021.euro-par.org" target="_blank"> EuroPar</a> (Performance and power modeling, prediction and evaluation)
  - 2020: <a href="https://correctness-workshop.github.io/2020/" target="_blank"> Correctness</a>, <a href="https://sc20.supercomputing.org" target="_blank"> SC</a> (Performance track)
  - 2019: <a href="https://correctness-workshop.github.io/2019/" target="_blank"> Correctness</a>, <a href="https://www.ppam.pl" target="_blank"> PPAM</a>, <a href="http://hpcs2019.cisedu.info/2-conference/symposia/symp05-4pad" target="_blank"> 4PAD </a>, <a href="https://2019.compas-conference.fr" target="_blank"> Compas </a>, <a href="https://omasew.github.io" target="_blank"> OMASE </a>
  - 2018: <a href="https://sc18.supercomputing.org" target="_blank"> SC</a> (Workshop), <a href="http://2018.compas-conference.fr/#" target="_blank"> Compas </a>, <a href="https://www.isc-hpc.com" target="_blank"> ISC</a> (Poster)
@@ -148,7 +148,8 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    <div class="panel-body">
  <td markdown="1">
  - Inria recruitment Jury (for Bordeaux in 2022, for Lyon in 2024)
- - Responsible of a panel at the Inria scientific days (JSI) in 2023
+ - Intervention at the Inria scientific days (JSI) in 2023
+ - Responsible of the panel Cross-layer optimization at the Inria seminar in 2022
  - In charge of the popularization activities for the Inria Bordeaux Research Center (since 2021)
  - Member of the Commission de délégation (delegation, postdoc, cordi-s) (since 2019)
  - Treasurer of AGOS (Association de Gestion des Œuvres Sociales) at Inria Bordeaux research center and member of AGOS national (2018-2023)
